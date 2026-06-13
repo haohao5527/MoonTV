@@ -399,6 +399,10 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
+    "iqiyi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺"
+    },
     "jyzyapi_provide": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
@@ -450,6 +454,74 @@
     "qiqidys": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
+    },
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
+    },
+    "youzhi": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "优质资源"
+    },
+    "guansu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "zuidazy": {
+      "api": "https://zuidazy.me/api.php/provide/vod",
+      "name": "最大点播"
+    },
+    "bdzy": {
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云zy"
+    },
+    "kuaiche": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "lovedan": {
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "name": "艾旦影视"
+    },
+    "lovedan2": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "lzcaiji": {
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "name": "量子采集"
+    },
+    "sdzy": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "飘零资源"
+    },
+    "yaya": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "huya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "jinying": {
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "name": "金鹰点播"
     }
   }
 }
